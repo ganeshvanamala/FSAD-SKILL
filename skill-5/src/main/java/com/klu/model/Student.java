@@ -13,8 +13,8 @@ public class Student {
 	
 	@Autowired
 	public Student() {
-		this.studentId=30369;
-		this.name="Yogendra";
+		this.studentId=31349;
+		this.name="Ganesh";
 		this.gender="M";
 	}
 	public Student(int studentId, String name, String gender) {
