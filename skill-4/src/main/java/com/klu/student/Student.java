@@ -9,7 +9,7 @@ public class Student {
 	private String name;
 	private String course;
 	private int year;
-	public Student(@Value("369")int studentId,@Value("Yogendra")String name) {
+	public Student(@Value("349")int studentId,@Value("Ganesh")String name) {
 		this.studentId=studentId;
 		this.name=name;
 	}
