@@ -4,7 +4,7 @@ import "./StudentManager.css";
 function StudentManager() {
 
   const initialStudents = [
-    { id: 1, name: "Sai Kumar", course: "CSE" },
+    { id: 1, name: "Ganesh Vanamala", course: "CSE" },
     { id: 2, name: "Rahul", course: "ECE" },
     { id: 3, name: "Priya", course: "IT" },
     { id: 4, name: "Arjun", course: "Mechanical" },
