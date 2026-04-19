@@ -1,0 +1,11 @@
+desktop.ini
+
+# Local run logs
+*.log
+
+# Frontend dependencies/build output
+frontend/node_modules/
+frontend/dist/
+
+# Backend build output
+backend/**/target/
