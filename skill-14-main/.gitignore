@@ -1,0 +1,42 @@
+# Node / React
+node_modules/
+.pnp/
+.pnp.js
+coverage/
+build/
+
+# Spring / Java
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# IDE / OS
+.DS_Store
+.idea/
+.vscode/
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+*.iws
+*.iml
+*.ipr
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# Local environment / logs
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
